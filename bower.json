@@ -1,0 +1,17 @@
+{
+  "name": "angular-dynamic-html",
+  "authors": [
+    "Sanchit <dev@minutephp.com>"
+  ],
+  "description": "compiles dynamically inserted html using angularjs",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
