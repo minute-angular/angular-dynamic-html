@@ -1,0 +1,27 @@
+{
+  "name": "angular-dynamic-html",
+  "authors": [
+    "Sanchit <dev@minutephp.com>"
+  ],
+  "description": "compiles dynamically inserted html using angularjs",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/minutejs/angular-dynamic-html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "6f0e8b58e13554e382561105690fb0882e4cdb97"
+  },
+  "_source": "git://github.com/minutejs/angular-dynamic-html.git",
+  "_target": "*",
+  "_originalSource": "minutejs/angular-dynamic-html"
+}
