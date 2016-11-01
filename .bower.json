@@ -14,12 +14,12 @@
     "test",
     "tests"
   ],
-  "version": "0.0.1",
-  "_release": "0.0.1",
+  "version": "0.0.2",
+  "_release": "0.0.2",
   "_resolution": {
     "type": "version",
-    "tag": "v0.0.1",
-    "commit": "6f0e8b58e13554e382561105690fb0882e4cdb97"
+    "tag": "v0.0.2",
+    "commit": "720c97394ad02e4e9727f3e5d4e1935737c6bb31"
   },
   "_source": "git://github.com/minutejs/angular-dynamic-html.git",
   "_target": "*",
